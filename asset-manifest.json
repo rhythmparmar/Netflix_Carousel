@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netflix_Carousel/static/css/main.39428dfd.css",
+    "main.js": "/Netflix_Carousel/static/js/main.902f8e08.js",
+    "index.html": "/Netflix_Carousel/index.html",
+    "main.39428dfd.css.map": "/Netflix_Carousel/static/css/main.39428dfd.css.map",
+    "main.902f8e08.js.map": "/Netflix_Carousel/static/js/main.902f8e08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39428dfd.css",
+    "static/js/main.902f8e08.js"
+  ]
+}
